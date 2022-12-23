@@ -1,0 +1,15 @@
+C:\C#\IntermediaryAccessModifiers\bin\Debug\net6.0\IntermediaryAccessModifiers.exe
+C:\C#\IntermediaryAccessModifiers\bin\Debug\net6.0\IntermediaryAccessModifiers.deps.json
+C:\C#\IntermediaryAccessModifiers\bin\Debug\net6.0\IntermediaryAccessModifiers.runtimeconfig.json
+C:\C#\IntermediaryAccessModifiers\bin\Debug\net6.0\IntermediaryAccessModifiers.dll
+C:\C#\IntermediaryAccessModifiers\bin\Debug\net6.0\IntermediaryAccessModifiers.pdb
+C:\C#\IntermediaryAccessModifiers\obj\Debug\net6.0\IntermediaryAccessModifiers.csproj.AssemblyReference.cache
+C:\C#\IntermediaryAccessModifiers\obj\Debug\net6.0\IntermediaryAccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\IntermediaryAccessModifiers\obj\Debug\net6.0\IntermediaryAccessModifiers.AssemblyInfoInputs.cache
+C:\C#\IntermediaryAccessModifiers\obj\Debug\net6.0\IntermediaryAccessModifiers.AssemblyInfo.cs
+C:\C#\IntermediaryAccessModifiers\obj\Debug\net6.0\IntermediaryAccessModifiers.csproj.CoreCompileInputs.cache
+C:\C#\IntermediaryAccessModifiers\obj\Debug\net6.0\IntermediaryAccessModifiers.dll
+C:\C#\IntermediaryAccessModifiers\obj\Debug\net6.0\refint\IntermediaryAccessModifiers.dll
+C:\C#\IntermediaryAccessModifiers\obj\Debug\net6.0\IntermediaryAccessModifiers.pdb
+C:\C#\IntermediaryAccessModifiers\obj\Debug\net6.0\IntermediaryAccessModifiers.genruntimeconfig.cache
+C:\C#\IntermediaryAccessModifiers\obj\Debug\net6.0\ref\IntermediaryAccessModifiers.dll
